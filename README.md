@@ -1,5 +1,5 @@
 # Project: Sea Landing Page[*]
-Include:
+Includes:
 
 - Navigation and Logo.
 - Left content: Title, description and button.
