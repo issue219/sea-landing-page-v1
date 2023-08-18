@@ -1,4 +1,4 @@
------ Project: Sea Landing Page[*]  -----
+# Project: Sea Landing Page[*]
 Include:
 
 - Navigation and Logo.
